@@ -1,0 +1,6 @@
+{
+  "name": "AksharaDeepaTutor(Educationapp)",
+  "description": "Native Android app built with Kotlin & Jetpack Compose for rural education. Features Syllabus Tracking, Quiz Mode, and Strength Map analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
